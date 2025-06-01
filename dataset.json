@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "  Alice ",
+    "age": "30 ",
+    "department": " Sales ",
+    "salary": " 60000 ",
+    "experience_years": "5"
+  },
+  {
+    "id": "2",
+    "name": "Bob",
+    "age": " ",
+    "department": "HR",
+    "salary": "75000",
+    "experience_years": "20"
+  },
+  {
+    "id": "3",
+    "name": "Charlie",
+    "age": "25",
+    "department": "IT ",
+    "salary": "$50000",
+    "experience_years": "2"
+  },
+  {
+    "id": "4",
+    "name": "David",
+    "age": "35",
+    "department": " Sales",
+    "salary": "65,000 ",
+    "experience_years": "8"
+  },
+  {
+    "id": "5",
+    "name": "Eve",
+    "age": "29",
+    "department": "IT",
+    "salary": "58000",
+    "experience_years": "four"
+  },
+  {
+    "id": "6",
+    "name": "",
+    "age": "40",
+    "department": "Marketing",
+    "salary": "68000",
+    "experience_years": "10"
+  }
+]
