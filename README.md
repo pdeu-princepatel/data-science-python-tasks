@@ -2,14 +2,14 @@
 
 This repository contains Python scripts to clean employee data and perform analysis such as average salaries, identifying youngest and most experienced employees, and department-wise insights.
 
-## Files
+## Functionality 
 
-- `data_cleaning.py` - Functions to clean raw CSV-like employee data.
-- `analysis.py` - Function `Analysis(data)` to perform analytics on cleaned data.
+- `clean_data(data)` Functions to clean raw json employee data.
+- Function `Analysis(data)` to perform analytics on cleaned data.
 
 ## How to Use in JupyterLab (Anaconda)
 
-1. Prepare your raw data as a list of dictionaries (e.g., from CSV or manual input).
+1. Prepare your raw data as a list of dictionaries (e.g., from json or manual input).
 2. Import the cleaning and analysis functions into your Jupyter notebook or lab.
 3. Clean your raw data using `clean_data()`.
 4. Run analysis using `Analysis()` on the cleaned data.
